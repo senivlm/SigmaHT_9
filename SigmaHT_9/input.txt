@@ -1,0 +1,4 @@
+﻿Meat: Shashlik 145 1000 10 21:10:2021 ExtraClass Pork
+Dairy: Milk 25 1000c 3 01:10:2021
+Ordinary: Oil 40g 500 25 23:10:2021
+Ordinary: Bread 18 280 3 04:10:2021
