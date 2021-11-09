@@ -4,7 +4,7 @@ using System.IO;
 namespace SigmaHT_9
 {
     class FileWorker
-    {
+    {//краще поза класом.
         public delegate void PrintIncorrectDataInFile(string fileName, string wrongLine, string message);
         public delegate void ModifyInput(Storage storage, string wrongLine, string productClass);
 
