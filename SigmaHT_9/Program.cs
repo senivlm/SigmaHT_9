@@ -12,7 +12,7 @@ namespace SigmaHT_9
             fileWorker.CorrectData += EventHandler.FileWorker_CorrectData;
 
             Storage storage = fileWorker.GetProducts();
-
+// Чому тільки одна подія
             storage.SearchForExpiredProducts += EventHandler.Storage_SearchForExpiredProducts;
 
             Console.WriteLine(storage);
